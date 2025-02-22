@@ -1,4 +1,4 @@
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<3D Avatar Interaction>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+3D Avatar Interaction
 
 Version 1.0.0 - Published February 2025
 
